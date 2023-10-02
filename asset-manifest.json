@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-blogx/static/css/main.eaf29e92.css",
+    "main.js": "/ai-blogx/static/js/main.3e8efd00.js",
+    "index.html": "/ai-blogx/index.html",
+    "main.eaf29e92.css.map": "/ai-blogx/static/css/main.eaf29e92.css.map",
+    "main.3e8efd00.js.map": "/ai-blogx/static/js/main.3e8efd00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf29e92.css",
+    "static/js/main.3e8efd00.js"
+  ]
+}
